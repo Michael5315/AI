@@ -1,2 +1,2 @@
 # AI
-use for recording 
+主要是用来记录学习过的代码和项目：比如在B站，CSDN上的项目
